@@ -19,7 +19,7 @@ elif operator =="/":
 
 elif operator =="%":
     print(first%second)
-
 else:
     print("invalid number")
     print("FUCK YOU")
+    # designed by sandeep 
